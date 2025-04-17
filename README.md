@@ -38,15 +38,15 @@ inadimplencia-cluster-brasil/
 
 ## 📊 Exemplos de Resultados
 
-### 📌 Dendrograma de Clusters
+### 📌 
 
 ![Dendrograma](figures/dendrograma.png)
 
-### 📌 Boxplot da Inadimplência por Grupo
+### 📌 
 
 ![Boxplot](figures/boxplot_clusters.png)
 
-### 📌 Média Mensal da Inadimplência por Grupo com Eventos Econômicos
+### 📌 
 
 ![Boxplot](figures/Media_Mensal.png)
 
