@@ -46,6 +46,10 @@ inadimplencia-cluster-brasil/
 
 ![Boxplot](figures/boxplot_clusters.png)
 
+### 📌 Média Mensal da Inadimplência por Grupo com Eventos Econômicos
+
+![Boxplot](figures/Media_Mensal.png)
+
 ---
 
 ## ⚙️ Como Reproduzir
